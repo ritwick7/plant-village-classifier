@@ -1,0 +1,20 @@
+# .gitignore
+
+# Ignore dataset and model weights
+data/
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.env
+*.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
